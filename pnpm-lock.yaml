@@ -3,10 +3,7 @@ lockfileVersion: 5.4
 importers:
 
   .:
-    specifiers:
-      eslint: ^8.51.0
-    devDependencies:
-      eslint: registry.npmmirror.com/eslint/8.51.0
+    specifiers: {}
 
   package/ast:
     specifiers:
